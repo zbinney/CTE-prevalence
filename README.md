@@ -7,7 +7,7 @@ The first is a CSV of professional football deaths from pro-football-reference.c
 
 The second is the R script used to generate the figure and estimates in the paper. This version of the figure also includes a 95% confidence interval.
 
-<span style="text-decoration: underline;">FAQs and Comments</span>
+##FAQs and Comments
 
 <b>What year and how old were the players who died?</b>
 
