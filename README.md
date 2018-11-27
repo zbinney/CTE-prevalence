@@ -17,9 +17,9 @@ We do not have data from the brain bank administrators on the details of the 111
 
 Again, we do not have the specific years for the 111 autopsied players. Among the 1,142 deaths listed in PFR, the median retirement year was 1963 (10th percentile 1947, 90th percentile 1987).
 
-<b>Is it possible CTE rates are different now than when these players played?</b>
+<b>Is it possible CTE rates now are different now than when these players played?</b>
 
-Yes. It may be that players playing today are at lower risk than those from earlier eras due to some positive safety-related rule and equipment changes in the NFL. However, we believe it is at least equally likely that the older era provides an underestimate of the current CTE burden because players today are bigger, faster, and stronger than ever before, imparting greater forces with each collision.
+Yes. It may be that players playing today are at lower risk than those from earlier eras due to some positive safety-related rule and equipment changes in the NFL. However, we believe it is at least equally likely that the older era provides an underestimate of the eventual CTE prevalence for current players because players today are bigger, faster, and stronger than ever before, imparting greater forces to the brain with each collision.
 
 <b>Are you confident 1,142 is an accurate death count?</b>
 
