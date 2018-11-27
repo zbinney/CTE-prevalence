@@ -3,7 +3,7 @@ Data and code for calculating CTE prevalence in NFL (and other pro football) ret
 
 This repo contains two files pertaining to the paper <a href="http://n.neurology.org/lookup/doi/10.1212/WNL.0000000000006699">"Estimating the prevalence at death of CTE neuropathology among professional football players</a>" by Binney and Bachynski (2018) in the journal <i>Neurology</i>.
 
-The first is a CSV of professional football deaths from pro-football-reference.com. <a href="https://www.pro-football-reference.com/years/2016/deaths.htm">Here</a> is a link to example data from 2016.
+The first is a CSV of professional football deaths from pro-football-reference.com. <a href="https://www.pro-football-reference.com/years/2016/deaths.htm">Here</a> is a link to example data from 2016. Please note to get from the data to our count of 1,142 you must exclude entries whose only position is "Coach" and who died in months outside the original BU study's timeframe (0's in the column named "Include" in the CSV).
 
 The second is the R script used to generate the figure and estimates in the paper. This version of the figure also includes a 95% confidence interval.
 
