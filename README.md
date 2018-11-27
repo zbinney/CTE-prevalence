@@ -1,5 +1,5 @@
 # CTE-prevalence
-Data and code for calculating CTE prevalence
+Data and code for calculating CTE prevalence in NFL (and other pro football) retirees
 
 This repo contains two files pertaining to the paper <a href="http://n.neurology.org/lookup/doi/10.1212/WNL.0000000000006699">"Estimating the prevalence at death of CTE neuropathology among professional football players</a>" by Binney and Bachynski (2018) in the journal <i>Neurology</i>.
 
