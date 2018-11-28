@@ -15,7 +15,7 @@ We do not have data from the brain bank administrators on the details of the 111
 
 <b>When did these players play?</b>
 
-Again, we do not have the specific years for the 111 autopsied players. Among the 1,142 deaths listed in PFR, the median retirement year was 1963 (10th percentile 1947, 90th percentile 1987).
+Again, we do not have the specific years for the 111 autopsied players. Among the 1,142 deaths listed in PFR, the median retirement year was 1963 (10th percentile 1947, 90th percentile 1987). The mean and median career lengths were 4.6 and 3 years, respectively.
 
 <b>Is it possible CTE rates now are different now than when these players played?</b>
 
